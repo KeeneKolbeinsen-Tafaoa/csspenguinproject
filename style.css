@@ -12,7 +12,7 @@ body {
 	background-image:url('KeenKolbeinsen-Tafaoa/testing7/project3/media/penguin_title.png');
 }
 .penguin1:hover {
-	background-image:url('https://github.com/KeeneKolbeinsen-Tafaoa/testing7/blob/main/media/mound_1.png');
+	background-image:url('media/mound_1_hover.png');
 	cursor: pointer;
 }
 .penguin1:active {
