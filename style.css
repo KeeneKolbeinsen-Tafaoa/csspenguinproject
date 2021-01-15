@@ -22,7 +22,7 @@ body {
 	width: 200px;
 	height: 200px;
 	float: left;
-	background-image:url('media/mound_1.png');
+	background-image:url('https://github.com/KeeneKolbeinsen-Tafaoa/testing7/blob/main/media/mound_1.png');
 }
 .penguin2:hover {
 	background-image:url('file:///C:/Users/kolbe/Desktop/Coding%201/CSS%20Projects/CSS%20Project%20%233/Media/mound_2_hover.png');
