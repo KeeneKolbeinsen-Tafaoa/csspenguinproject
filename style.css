@@ -9,7 +9,7 @@ body {
 #title {
 	width: 600px;
 	height: 150px;
-	background-image:url('media/penguin_title.png');
+	background-image:url('penguin_title.png');
 }
 .penguin1:hover {
 	background-image:url('media/mound_1_hover.png');
